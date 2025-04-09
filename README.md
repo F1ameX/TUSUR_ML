@@ -7,6 +7,8 @@ This repository contains completed assignments from the course "Artificial Intel
 - **Notebooks 1-5** contain assignments related to data processing and building classical ML models.
 - **Notebook 6** is dedicated to probability theory tasks.
 - **Notebooks 7-8** focus on Convolutional Neural Networks (CNN), their architecture, and training.
+- **Notebook 9** is dedicated to working with custom GANs.
+- **Notebook 10** focuses on inference with large language models (LLMs).
 
 ---
 
@@ -19,3 +21,5 @@ This repository contains completed assignments from the course "Artificial Intel
 - **Ноутбуки 1-5** содержат задания, связанные с работой с данными и построением моделей классического машинного обучения.
 - **Ноутбук 6** посвящён задачам на теорию вероятности.
 - **Ноутбуки 7-8** посвящены работе со сверточными нейронными сетями (CNN), их архитектурой и обучением.
+- **Ноутбук 9** посвящён работе с кастомными GAN.
+- **Ноутбук 10** посвящён инференсу с использованием больших языковых моделей (LLM).
